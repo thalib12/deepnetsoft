@@ -1,0 +1,27 @@
+.Login form {
+    padding-top: 10px;
+    margin-top: 100px;
+    margin-left: 30%;
+    max-width: 320px;
+    border: 1px solid black;
+    height: 500px;
+  }
+  .email{
+      margin-top: 50px;
+      margin-bottom: 50px;
+      margin-left: 10%;
+  }
+.password{
+    margin-left: 4%;
+
+}
+.submit{
+    margin-top: 50px;
+    margin-left: 30%;
+}
+.head{
+    text-align: center;
+}
+.register{
+    margin-left: 10%;
+}
